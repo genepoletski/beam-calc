@@ -1,0 +1,6 @@
+{
+  "name": "Beam-calc",
+  "tagline": "Wooden beam calculator",
+  "body": "# Project \"beam_calc\"\r\nWooden beam calculator\r\n\r\n## Module features\r\n- calculate loads:\r\n  - set slab or roof slope;\r\n  - set snow load;\r\n  - set roof structural layers;\r\n- calculate beam:\r\n  - set beam loads;\r\n  - set beam span;\r\n  - set beam profile (profile width, height e.t.c.);\r\n\r\n## Dependencies\r\n- React;\r\n- ReactDOM;\r\n- Bootstrap;\r\n\r\n## Deployed project URI\r\nhttp://www.epwoodworks.ru/calcs.html\r\n\r\n## Git Pages\r\nhttps://web-developer-poletski.github.io/beam-calc/\r\n\r\n## Releases\r\n1.0.0 https://github.com/web-developer-poletski/beam-calc/releases/tag/v1.0.0\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
